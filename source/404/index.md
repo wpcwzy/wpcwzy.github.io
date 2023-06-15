@@ -12,7 +12,7 @@ date: 2023-06-15 18:14:05
     <link rel="stylesheet" type="text/css" href="https://qzone.qq.com/gy/404/style/404style.css">
   </head>
   <body>
-    <script type="text/plain" src="http://www.qq.com/404/search_children.js"
+    <script type="text/plain" src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js"
             charset="utf-8" homePageUrl="https://blog.wpcwzy.top"
             homePageName="回到我的主页">
     </script>
