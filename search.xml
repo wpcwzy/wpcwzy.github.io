@@ -18,4 +18,20 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>vscode-luogu插件开发个人备忘</title>
+    <url>/2023/06/16/vscode-luogu/</url>
+    <content><![CDATA[<p>先删除 <code>node_modules</code> 再执行 <code>npm install</code></p>
+<p>发布前需要更新以下这些文件中的版本和CHANGELOG信息：</p>
+<ul>
+<li>extension.js</li>
+<li>package.json</li>
+<li>CHANGELOG.md<br>并将代码从dev仓库上传至stable仓库</li>
+</ul>
+<p>未完待续</p>
+]]></content>
+      <categories>
+        <category>个人备忘</category>
+      </categories>
+  </entry>
 </search>
