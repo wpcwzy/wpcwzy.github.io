@@ -1,0 +1,35 @@
+name: aliyun
+
+# 在main分支上有push命令时触发该流程
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout Repository master branch
+              uses: actions/checkout@master
+
+            - name: Setup Node.js 12.x
+              uses: actions/setup-node@master
+              with:
+                  node-version: '12.x'
+
+            - name: Setup Hexo Dependencies
+              run: |
+                  npm install  # 若没有上传依赖包，则把这行的注释解除
+                  npm install -g hexo-cli
+                  hexo clean
+                  hexo generate
+            - name: setup aliyun oss
+              uses: manyuanrong/setup-ossutil@master
+              with:
+                  endpoint: oss-cn-shanghai.aliyuncs.com
+                  access-key-id: ${{ secrets.KEY }} # 刚刚配置过的AccessKeyId
+                  access-key-secret: ${{ secrets.SECRET }} # 刚刚配置过的AccessKeySecret
+            - name: cp files to aliyun
+              run: ossutil cp -rf public oss://wpcwzy-blog/
