@@ -9,6 +9,8 @@ categories: coding
 
 @yltx 这一阵在升级他的博客，需要实现一个从 GitHub 仓库中返回随机图片的 API ，从而实现博客背景的随机更换。在拿着 GitHub 官方的 `octokit` 手撸了一会 cloudflare worker 之后，我懒癌发作，于是开始尝试让 chatGPT 帮我完成这个简单的API。
 
+<!--more-->
+
 *篇幅所限，省略了一部分不重要的过程。*
 
 ## 编写
