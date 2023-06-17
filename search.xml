@@ -38,6 +38,8 @@
     <title>随机图片API，但是chatGPT写的</title>
     <url>/2023/06/18/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API%EF%BC%8C%E4%BD%86%E6%98%AF-chatGPT-%E5%86%99%E7%9A%84/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>@yltx 这一阵在升级他的博客，需要实现一个从 GitHub 仓库中返回随机图片的 API ，从而实现博客背景的随机更换。在拿着 GitHub 官方的 <code>octokit</code> 手撸了一会 cloudflare worker 之后，我懒癌发作，于是开始尝试让 chatGPT 帮我完成这个简单的API。</p>
+<span id="more"></span>
+
 <p><em>篇幅所限，省略了一部分不重要的过程。</em></p>
 <h2 id="编写"><a href="#编写" class="headerlink" title="编写"></a>编写</h2><p>第一次用chatGPT写程序，为了逐步引导它，我是这么开头的：</p>
 <blockquote>
