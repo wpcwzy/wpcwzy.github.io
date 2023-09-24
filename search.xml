@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Spirit behind the mooncake tradition — love, reunion, and good wishes</title>
+    <url>/2023/09/24/2023-mid-autumn/</url>
+    <content><![CDATA[<blockquote>
+<p>Dew has turned into frost since tonight; </p>
+<p>The moon viewed at home is brighter.</p>
+<p>— <em>Thinking Of My Brothers On A Moonlit Night</em> by Du Fu.</p>
+</blockquote>
+<p>With the Mid-Autumn Festival around the corner, shops, bakeries, and even universities are launching mooncake products with different designs and patterns. Behind the mooncake tradition lies the true spirit of the Mid-Autumn Festival — love, reunion, and good wishes.</p>
+<span id="more"></span>
+
+<p><img data-src="https://cdn.pixabay.com/photo/2022/09/09/09/27/moon-cake-7442615_1280.png" alt="月饼, 中秋节, 中国文化, 节日, 食物, 中国传统, 美食家, 剪贴画"></p>
+<h2 id="Love"><a href="#Love" class="headerlink" title="Love"></a>Love</h2><p>Gifting is a long-lasting tradition in Chinese culture, which not only shares our joys but also shows respect and love to other people. With the development of society, mooncakes have been designed in different shapes and flavors to cater to consumers’ demands, and all kinds of mooncake gift boxes have also been rolled out and received great pursuits. Giving away a set of well-designed and good-tasting mooncakes is the best way to express love to your beloved at the Mid-Autumn Festival. Opening a box of delicate mooncakes, you will find yourself surrounded by boundless love and joy.</p>
+<p><img data-src="https://cdn.pixabay.com/photo/2016/09/12/15/36/mid-autumn-festival-1664929_1280.jpg" alt="中秋节, 传统的, 月饼, 小型的, 庆典, 东方的, 文化, 月亮, 亚洲人"></p>
+<h2 id="Reunion"><a href="#Reunion" class="headerlink" title="Reunion"></a>Reunion</h2><p>Take a close look at the mooncakes, and you will find a significant element of the Mid-Autumn — The moon at Mid-Autumn is round, and the delicious mooncakes are in the shape of a round, too.</p>
+<p>Why? In Chinese, “reunion” and “round” share the same pronunciation “yuan”, so all the round things are given the meaning of reunion. Talking about the reunion, we always recite the poem by Su, “We wish each other a long life so as to share the beauty of the moon, even though miles apart.” It reflects the Chinese unique complex of reunion. These days, many people working as a migrant have little chance of going back home. Despite this situation, they can still feel warmth in various ways such as enjoying a mooncake, making a video call, or simply admiring the full moon. When we look up at the same moon, we are pulled together crossing mountains and seas. The distance can be shortened, the homesickness can be relieved, and the reunion can be tasted. For all Chinese, staying with family is highly valued. That’s why every beautiful and romantic thing can be a poetical excuse for a reunion.</p>
+<p><img data-src="https://blog.wpcwzy.top/uploads/%7B0C17DA8E-51A3-FB26-4806-B6144F67ED30%7D.png" alt="中秋团圆"></p>
+<h2 id="Good-wishes"><a href="#Good-wishes" class="headerlink" title="Good wishes"></a>Good wishes</h2><p>The moral of the Mid-autumn Festival has been extended to more flexible and multiple aspects nowadays. Recently, Central South University has published cultural and creative mooncakes, which are available to all students and faculties. Once the sale started, all the students flocked to the dining hall to buy and enjoy the mooncakes. Many students believe these mooncakes can bring good luck to their studies and daily lives.</p>
+<p><img data-src="https://blog.wpcwzy.top/uploads/IMG_8202(20230924-223558).JPG" alt="中南文创月饼"></p>
+<p><em>Image from WeChat official account 中南大学</em></p>
+<p>While the moon today is the brightest of the year, the harvest during the autumn is also worth celebrating. During the Mid-Autumn, many people go on outings to enjoy the beautiful autumn scenery and taste freshly picked fruits and vegetables. The meaning of the Mid-Autumn Festival is constantly enriched while being passed down from one generation to another.</p>
+<p>Mid-Autumn spirits — love, reunion, and good wishes — are rooted in the Chinese soul, giving us endless strength and support. </p>
+<p>The Mid-Autumn Festival is four days away. We wish you a happy Mid-Autumn Festival!</p>
+<p><img data-src="https://cdn.pixabay.com/photo/2022/09/27/04/22/moon-7481998_1280.jpg" alt="月亮, 空间, 星星, 中秋节, 夜晚"></p>
+<p>By Wang Pincheng, Liu Hao, Xue Jiacheng and Jiang Yanzhi in Changsha,Hunan.</p>
+]]></content>
+      <tags>
+        <tag>English</tag>
+        <tag>日常生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2023/06/16/hello-world/</url>
+    <url>/2023/09/24/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -17,22 +48,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>vscode-luogu插件开发个人备忘</title>
-    <url>/2023/06/16/vscode-luogu/</url>
-    <content><![CDATA[<p>先删除 <code>node_modules</code> 再执行 <code>npm install</code></p>
-<p>发布前需要更新以下这些文件中的版本和CHANGELOG信息：</p>
-<ul>
-<li>extension.js</li>
-<li>package.json</li>
-<li>CHANGELOG.md<br>并将代码从dev仓库上传至stable仓库</li>
-</ul>
-<p>未完待续</p>
-]]></content>
-      <categories>
-        <category>个人备忘</category>
-      </categories>
   </entry>
   <entry>
     <title>随机图片API，但是chatGPT写的</title>
