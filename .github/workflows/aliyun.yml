@@ -14,10 +14,10 @@ jobs:
             - name: Checkout Repository master branch
               uses: actions/checkout@master
 
-            - name: Setup Node.js 12.x
+            - name: Setup Node.js 18.18
               uses: actions/setup-node@master
               with:
-                  node-version: '12.x'
+                  node-version: '18.18.0'
 
             - name: Setup Hexo Dependencies
               run: |
